@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lecture 1.md",
+            "file": "Strategy of Experimentation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2d19b4949542958d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Strategy of Experimentation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "Strategy of Experimentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "Strategy of Experimentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 1.md"
+                "file": "Strategy of Experimentation.md"
               }
             }
           }
@@ -130,14 +142,15 @@
   },
   "active": "0f25b772670ba929",
   "lastOpenFiles": [
-    "IEE 572.md",
-    "Main Page.md",
+    "Lecture 2.md",
+    "Strategy of Experimentation.md",
+    "Basic Principles of DOX.md",
     "Lecture 1.md",
     "Lecture 3.md",
-    "Lecture 2.md",
-    "Untitled.md",
-    "README.md",
-    "IEE-572/Lecture 1/Design and Analysis of Engineering Experiments.md",
-    "2022-08-23.md"
+    "IEE 572.md",
+    "Important Roles of Experiments.md",
+    "Experiments.md",
+    "Main Page.md",
+    "T-Test.md"
   ]
 }
