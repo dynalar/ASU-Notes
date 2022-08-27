@@ -1,4 +1,18 @@
-# Strats for Experimentation
-- Best Guess experiments
-- One-factor-at-a-time (OFAT) experiments
-- Statistically designed experiments
+# Strategies for Experimentation
+---
+- ## Best Guess experiments
+	- Used a lot
+		- "I think the problem is temperature, lets change it and see what happens!"
+	- More successfuly than you think, but there are disadvantages
+	- The best guess is what we did first, but if it fails again... then what?
+	- Expectations should be low for this. Not the best way to do it.
+- ## One-factor-at-a-time (OFAT) experiments
+	- Most engineers do lab courses with this.
+	- Involves testing various factors one at a time.
+	- Sometimes associated with the "scientific" or "engineering" method
+	- Devastated by interaction, also VERY inefficient.
+		- "Interaction" means when changing different factors, changes occur drastically with other factors
+		- This is not a good idea! What if you have multiple factors that get you the result you want? You'll never know if you test one at a time
+- ## Statistically designed experiments
+	- Based on Fisher's Factorial Idea
+	- Uses concept of [[Factorial Design]]

@@ -41,4 +41,3 @@
 - When designing experiments, you have to separate variables into groups.
 	- One you're going to study and vary
 	- One set that are BLOCKING factors (nuisance factors)
-	- 

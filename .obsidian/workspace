@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "0f25b772670ba929",
+        "id": "a146079a52e21c63",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Strategy of Experimentation.md",
+            "file": "Planning, Conducting, and Analyzing an Experiment.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "2d19b4949542958d",
+        "id": "7c27bc5abed97ff2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Strategy of Experimentation.md",
+            "file": "Planning, Conducting, and Analyzing an Experiment.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d832d1572fd3e120",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pre-Experimental Planning.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strategy of Experimentation.md",
+                "file": "Planning, Conducting, and Analyzing an Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strategy of Experimentation.md",
+                "file": "Planning, Conducting, and Analyzing an Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strategy of Experimentation.md"
+                "file": "Planning, Conducting, and Analyzing an Experiment.md"
               }
             }
           }
@@ -140,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f25b772670ba929",
+  "active": "a146079a52e21c63",
   "lastOpenFiles": [
+    "Pre-Experimental Planning.md",
+    "Planning, Conducting, and Analyzing an Experiment.md",
     "Lecture 2.md",
-    "Strategy of Experimentation.md",
-    "Basic Principles of DOX.md",
-    "Lecture 1.md",
+    "KISS.md",
     "Lecture 3.md",
-    "IEE 572.md",
-    "Important Roles of Experiments.md",
+    "Fractional Factorial Experiments.md",
+    "Strategy of Experimentation.md",
+    "Factorial Design.md",
     "Experiments.md",
-    "Main Page.md",
-    "T-Test.md"
+    "Images/Pasted image 20220826205723.png"
   ]
 }
