@@ -2,10 +2,10 @@
   "insert-template": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "N"
+      "key": "/"
     }
   ]
 }
