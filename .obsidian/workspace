@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d2e69029d1e6567",
+        "id": "1f3e201019dfe852",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Main Page.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main Page.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7af6fa68eeb7a30c",
+  "active": "1f3e201019dfe852",
   "lastOpenFiles": [
-    "Planning, Conducting, and Analyzing an Experiment.md",
-    "Untitled.md",
     "Lecture 3.md",
-    "IEE 572.md",
-    "Main Page.md",
+    "Portland Cement Problem.md",
+    "The Hypothesis Testing Framework.md",
+    "Untitled 1.md",
     "Lecture 2.md",
-    "Pre-Experimental Planning.md",
-    "KISS.md",
-    "Fractional Factorial Experiments.md",
-    "Strategy of Experimentation.md"
+    "Box Plots.md",
+    "Dot Diagram.md",
+    "Histogram.md",
+    "Untitled.md",
+    "Images/Pasted image 20220901191913.png"
   ]
 }
