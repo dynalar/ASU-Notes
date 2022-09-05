@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f345dceee8e80289",
+        "id": "4a34bb90fc15542e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Hypothesis Testing Framework.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2c74b2f29effceee",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Two-Sample T-Test.md",
+            "file": "Main Page.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Hypothesis Testing Framework.md",
+                "file": "Main Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Hypothesis Testing Framework.md",
+                "file": "Main Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Hypothesis Testing Framework.md"
+                "file": "Main Page.md"
               }
             }
           }
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f345dceee8e80289",
+  "active": "4a34bb90fc15542e",
   "lastOpenFiles": [
-    "Two-Sample T-Test.md",
-    "The Hypothesis Testing Framework.md",
-    "Lecture 3.md",
-    "Untitled.md",
     "IEE 572.md",
+    "Main Page.md",
     "Templates/Note.md",
-    "Portland Cement Problem.md",
-    "Untitled 1.md",
-    "Lecture 2.md",
-    "Box Plots.md"
+    "Images/Pasted image 20220826205723.png",
+    "KISS.md",
+    "Important Roles of Experiments.md",
+    "Basic Principles of DOX.md",
+    "Lecture 4 Exercises.md",
+    "Two-Sample T-Test.md",
+    "Fractional Factorial Experiments.md"
   ]
 }
